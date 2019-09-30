@@ -20,5 +20,5 @@ cout<<"Area = "<<rect(c, d);
 return(a*b); 
 } float rect(double c, double d) 
 { 
-return(c*d)
+return(c*d);
 } 
