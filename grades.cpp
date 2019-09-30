@@ -1,3 +1,6 @@
+//C++ program to find the grades of student by finding sum and average of marks//
+***********************************************************************************
+
 #include <iostream> 
 using namespace std; 
 int main() { 
@@ -55,4 +58,4 @@ sort[i]=s;
 } 
 } cout<<"max mark scored is :"<<sort[0]<<endl; 
 cout<<"min mark scored is :"<<sort[2]<<endl; 
-} Output: 
+}
