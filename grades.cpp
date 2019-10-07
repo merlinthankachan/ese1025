@@ -57,6 +57,7 @@ for(i=0;i<j;i++)
 sort[i+1]=sort[i]; 
 sort[i]=s; 
 } 
-} cout<<"max mark scored is :"<<sort[0]<<endl; 
+}
+cout<<"max mark scored is :"<<sort[0]<<endl; 
 cout<<"min mark scored is :"<<sort[2]<<endl; 
 }
