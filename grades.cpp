@@ -3,7 +3,8 @@
 
 #include <iostream>
 using namespace std; 
-int main() { 
+int main() 
+{ 
 int mark[5][3]; 
 int i,j,s; 
 float grade; 
