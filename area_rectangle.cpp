@@ -17,7 +17,7 @@ cin>>c>>d;
 cout<<"Area = "<<rect(c, d); 
 } int rect(int a, int b) 
 { 
-return(a*b)
+return(a*b);
 } float rect(double c, double d) 
 {
 return(c*d);
