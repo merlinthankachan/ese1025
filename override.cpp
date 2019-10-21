@@ -1,4 +1,4 @@
- //Create a virtual function in your base class. Override the virtual function in your derived classes//
+ // Example of a Cpp program to  override the virtual function in  derived classes//
 
 #include<iostream> 
 using namespace std; 
