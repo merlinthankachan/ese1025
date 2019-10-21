@@ -1,5 +1,5 @@
- Create a virtual function in your base class. Override the virtual function in your derived 
-classes? 
+ //Create a virtual function in your base class. Override the virtual function in your derived classes//
+
 #include<iostream> 
 using namespace std; 
 class bas 
