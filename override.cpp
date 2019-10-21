@@ -5,7 +5,7 @@ using namespace std;
 class bas 
 { public: 
 virtual void print () 
-{ cout<< "base class is printed" <<endl; } 
+{ cout<< "The base class is printed" <<endl; } 
 void show () 
 { cout<< "base class is shown" <<endl; } 
 }; class der:public bas 
