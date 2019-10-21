@@ -13,7 +13,7 @@ void show ()
 void print () 
 { cout<< "The derived class is printed" <<endl; } 
 void show () 
-{ cout<< "derived class is shown" <<endl; } 
+{ cout<< "The derived class is shown" <<endl; } 
 }; int main() 
 { 
 bas *bptr; 
