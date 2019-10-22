@@ -18,7 +18,7 @@ cin>>s;
 }; class totalexpense: public student1, public student2 { 
 public: 
 void gettotal() { 
-cout << "Total expense: " << s+r ; 
+cout << "Total expense is: " << s+r ; 
 } 
 }; int main() { 
 totalexpense obj; 
