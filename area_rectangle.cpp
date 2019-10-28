@@ -21,4 +21,4 @@ return(a*b);
 } float rect(double c, double d) 
 {
 return(c*d);
-} 
+
