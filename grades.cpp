@@ -58,6 +58,6 @@ sort[i+1]=sort[i];
 sort[i]=s; 
 } 
 }
-cout<<"Max mark scored is :"<<sort[0]<<endl; 
+cout<<"Maximum mark scored is :"<<sort[0]<<endl; 
 cout<<"min mark scored is :"<<sort[2]<<endl; 
 }
