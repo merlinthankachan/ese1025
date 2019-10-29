@@ -59,5 +59,5 @@ sort[i]=s;
 } 
 }
 cout<<"Maximum mark scored is :"<<sort[0]<<endl; 
-cout<<"min mark scored is :"<<sort[2]<<endl; 
+cout<<"Min mark scored is :"<<sort[2]<<endl; 
 }
