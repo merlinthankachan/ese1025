@@ -19,7 +19,7 @@ for(i=0;i<5;i++)
 { cout<<"Enter the score for "<<subj[i]<<"(Max 50):"; 
 cin>>mark[i][j]; 
 sum+=mark[i][j]; 
-} cout<<"Total score of "<<list[j]<<" is:"; 
+} cout<<"The total score of "<<list[j]<<" is:"; 
 cout<<sum << " out of 250"; 
 sort[j]=sum; 
 cout<<endl; 
