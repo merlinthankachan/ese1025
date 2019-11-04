@@ -1,5 +1,6 @@
-// Write a program to introduce a “this pointer” to access the private members of a class,// 
-when local variable name is same as member’s name? 
+// Write a program to introduce a “this pointer” to access the private members of a class when local variable name is same as member’s name? //
+ ***********************************************************************************************************************************************
+ 
 #include <iostream> 
 using namespace std; 
 class sample { 
