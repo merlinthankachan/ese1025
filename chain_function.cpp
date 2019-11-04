@@ -1,4 +1,4 @@
- A class level program with chain functions and constructor with parameters? 
+ //A class level program with chain functions and constructor with parameters//
 #include <iostream> 
 #include <math.h> 
 using namespace std; 
