@@ -1,7 +1,6 @@
  //Example of Cpp program to derive the sub classes from the base classes using multiple inheritance//
 ******************************************************************************************************
 
-
 #include <iostream> 
 using namespace std; 
 class student1{ 
