@@ -23,8 +23,7 @@ public:
 void gettotal() { 
 cout << "Total expense: " << s+r ; 
 } 
-};
-int main() { 
+};int main() { 
 totalexpense obj; 
 obj.getexpense1(); 
 obj.getexpense2(); 
