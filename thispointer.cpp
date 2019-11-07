@@ -22,6 +22,6 @@ cout<<num;
 sample obj; 
 obj.setvalues( 'A',100); 
 obj.displayvalues(); 
-return 0
+return 0;
 }
 
