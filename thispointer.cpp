@@ -23,4 +23,4 @@ sample obj;
 obj.setvalues( 'A',100); 
 obj.displayvalues(); 
 return 0; 
-} 
+
