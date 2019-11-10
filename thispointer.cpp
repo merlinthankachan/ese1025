@@ -1,4 +1,4 @@
-// Example of a Cpp  program to introduce a “this pointer” to access the private members of a class when local variable name is same as member’s name? //
+// Example of a Cpp  program to introduce a “this pointer” to access the private members of a class when local variable name is same as member’s name //
  *********************************************************************************************************************************************************
  
 #include <iostream> 
