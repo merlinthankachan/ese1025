@@ -12,7 +12,7 @@ double c, d;
 cout<<"Enter the sides of the rectangle (whole number)"<<"\n"; 
 cin>>a>>b; 
 cout<<"Area = "<<rect(a, b); 
-cout<<"\n"<<"Enter the sides of the rectangle"<<"\n"; 
+cout<<"\n"<<"Enter the sides of the rectangle "<<"\n"; 
 cin>>c>>d; 
 cout<<"Area = "<<rect(c, d); 
 } int rect(int a, int b) 
