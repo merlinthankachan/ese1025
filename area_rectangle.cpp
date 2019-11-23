@@ -9,7 +9,7 @@ int main()
 { 
 int a, b; 
 double c, d; 
-cout<<"Enter the sides of the rectangle (whole number)"<<"\n"; 
+cout<<"Enter the sides of the rectangle (as whole number)"<<"\n"; 
 cin>>a>>b; 
 cout<<"Area = "<<rect(a, b); 
 cout<<"\n"<<"Enter the sides of the rectangle "<<"\n"; 
