@@ -17,7 +17,8 @@ void displayvalues()
 { 
 cout<<ch<<endl; 
 cout<<num; 
-} }; int main() 
+} }; 
+int main() 
 {
 sample obj; 
 obj.setvalues( 'A',100); 
