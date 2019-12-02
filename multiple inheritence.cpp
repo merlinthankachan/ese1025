@@ -12,7 +12,8 @@ cin>>r;
 }; 
 class student2 { 
 public: int s; 
-void getexpense2() { 
+void getexpense2()
+{ 
 cout<<"Enter the expense of student2"<<endl; 
 cin>>s; 
 } 
