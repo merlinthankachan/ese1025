@@ -18,7 +18,7 @@ public:
 int ex3,ex4;
 void getexpense() {
 
-cout<<"enter the expense1 and expense2 of student2: "<<endl;
+cout<<"Enter the expense1 and expense2 of student2: "<<endl;
 cin>>ex3>>ex4;
 cout<< "Total expense of student1: "<<ex3+ex4<<endl;
 }
