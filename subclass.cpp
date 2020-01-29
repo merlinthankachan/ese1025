@@ -28,4 +28,4 @@ obj.getexpense1();
 obj.getexpense2(); 
 obj.gettotal(); 
 return 0; 
-} 
+
