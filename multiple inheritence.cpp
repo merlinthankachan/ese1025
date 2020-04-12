@@ -27,5 +27,5 @@ totalexpense obj;
 obj.getexpense1(); 
 obj.getexpense2(); 
 obj.gettotal(); 
-return 0; 
+return 0
 }
