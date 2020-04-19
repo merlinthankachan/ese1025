@@ -15,7 +15,7 @@ class student2 {
 public: int s; 
 void getexpense2()
 { 
-cout<<"Enter the expense of student2"<<endl; 
+cout<<"Enter the expense of student 2"<<endl; 
 cin>>s; 
 } 
 }; class totalexpense: public student1, public student2 { 
