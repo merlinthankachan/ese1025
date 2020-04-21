@@ -22,4 +22,4 @@ der d;
 bptr = &d; 
 bptr->print(); 
 bptr->show(); 
-} 
+}
