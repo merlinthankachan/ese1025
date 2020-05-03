@@ -1,5 +1,5 @@
-// Example of a Cpp program with polymorphism.
-********************************************** //
+// Example of a Cpp program with polymorphism.//
+********************************************** 
 #include <iostream>
 using namespace std;
 class student1{
