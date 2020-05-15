@@ -1,5 +1,5 @@
 // C++ program to find the grades of student by finding sum and average of marks //
-**********************************************************************************
+************************************************************************************
 
 #include <iostream>
 using namespace std; 
