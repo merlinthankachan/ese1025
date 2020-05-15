@@ -8,7 +8,7 @@ int main()
 int mark[5][3]; 
 int i,j,s; 
 float grade; 
-char *subj[5]={"Malayalam","Electronics","English","Maths","Science"}; 
+char *subj[5]={"Malayalam","Electronics","English","Maths","Chemistry"}; 
 char *list[3]={"Student 1","Student 2","Student 3"}; 
 int sum, sort[3]; 
 for(j=0;j<3;j++) 
